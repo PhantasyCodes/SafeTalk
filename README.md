@@ -9,8 +9,8 @@ In today's digital age, communication has evolved rapidly, and privacy concerns 
 
 * **Privacy concerns:** Many users are worried about their online privacy and are hesitant to share personal information on conventional messaging apps. They are concerned about data breaches, surveillance, and the potential misuse of their data.
 
-* **Cyberbullying and Harassment:** Online harassment and cyberbullying have become significant issues. Users want a platform where they can express themselves without fear of being targeted or identified by malicious individuals.
+* **Stigma and Isolation:** Vulnerable communities, abuse survivors, and addicts often face significant stigma and isolation when trying to discuss their experiences and seek support. They may be hesitant to open up due to fear of judgment and discrimination.
 
-* **Lack of Anonymity:** Existing messaging apps often require users to provide personal information, including phone numbers or email addresses, which compromises their anonymity.
+* **Lack of Anonymity:** Existing messaging apps often require users to provide personal information, including phone numbers or email addresses, which compromises their anonymity. Anonimity is of high importance in such an app as users will be sharing sensitive information about their personal lives.
 
-* **Data Security:** Users want their messages and data to be stored securely, with end-to-end encryption to prevent unauthorized access.
+* **Access to Guidance and Counseling:** Many individuals in these communities require professional guidance and counseling services, but they may not have easy access to these resources or may be afraid to seek help due to confidentiality concerns.
