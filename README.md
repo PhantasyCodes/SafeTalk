@@ -3,7 +3,7 @@ Safetalk is a android app for anonymous communication, with end-to-end encrypted
 
 ## Background
 
-In today's digital age, communication has evolved rapidly, and privacy concerns have become increasingly prevalent. While there are various messaging apps available, many users are seeking a platform that allows them to communicate anonymously and securely. This need has led to the development of Safetalk, an Android app designed to provide users with a secure and anonymous communication experience.
+In today's digital age, communication has evolved rapidly, and privacy concerns have become increasingly prevalent. While there are various messaging apps available, many users are seeking a platform that allows them to communicate anonymously and securely. In the context of vulnerable and marginalized communities, as well as individuals who have experienced abuse or are struggling with addiction, the need for a safe and anonymous communication platform is even more critical. Recognizing this need, Safetalk was developed as an Android app dedicated to providing a secure, stigma-free space for these groups to connect, share, and seek guidance and counseling.
 
 ## Problem
 
