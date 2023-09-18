@@ -1,5 +1,5 @@
 # SafeTalk
-Safetalk is a mobile application designed to address the pressing need for a safe and anonymous platform where individuals facing sensitive and stigmatized issues can openly connect and find support from others who may be going through similar experiences. The project is driven by a commitment to breaking down barriers, reducing isolation, and promoting mental and emotional well-being among vulnerable populations.
+Safetalk is a mobile application designed to be a safe and anonymous platform where individuals facing sensitive and stigmatized issues can openly connect and find support from others who may be going through similar experiences. The project is driven by a commitment to breaking down barriers, reducing isolation, and promoting mental and emotional well-being among vulnerable groups.
 
 ## Background
 
