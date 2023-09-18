@@ -3,7 +3,7 @@ Safetalk is a mobile application designed to address the pressing need for a saf
 
 ## Background
 
-In today's digital age, communication has evolved rapidly, and privacy concerns have become increasingly prevalent. While there are various messaging apps available, many users are seeking a platform that allows them to communicate anonymously and securely. In the context of vulnerable and marginalized communities, as well as individuals who have experienced abuse or are struggling with addiction, the need for a safe and anonymous communication platform is even more critical. Recognizing this need, Safetalk was developed as an Android app dedicated to providing a secure, stigma-free space for these groups to connect, share, and seek guidance and counseling.
+In today's digital age, communication has evolved rapidly, and privacy concerns have become increasingly prevalent. While there are various messaging apps available, many users are seeking a platform that allows them to communicate anonymously and securely. In the context of vulnerable and marginalized communities, as well as individuals who have experienced abuse or are struggling with addiction, the need for a safe and anonymous communication platform is even more critical. Recognizing this need, we're developing Safetalk as an Android app dedicated to providing a secure, stigma-free space for these groups to connect, share, and seek guidance and counseling.
 
 ## Problem
 
